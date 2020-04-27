@@ -17,6 +17,8 @@ public void deleteTwitter()
 {
 	
 	System.out.println(" delete twitter");
+	System.out.println(" delete twitter");
+	System.out.println(" delete twitter");
 }
 
 

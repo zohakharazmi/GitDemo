@@ -15,6 +15,9 @@ public void browserAutomation()
 public void elementsUi()
 {
 	System.out.println("elemnt ui");
+	System.out.println("elemnt ui");
+	System.out.println("elemnt ui");
+	System.out.println("elemnt ui");
 }
 
 }
