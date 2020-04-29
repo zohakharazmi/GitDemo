@@ -8,6 +8,15 @@ public class AppiumTest {
 	public void androisApp()
 	{
 		System.out.println("android apps");
+		System.out.println("android apps");
+		System.out.println("android apps");
+		System.out.println("android apps");
+		System.out.println("android apps");
+		System.out.println("android apps");
+		System.out.println("android apps");
+		System.out.println("android apps");
+		System.out.println("android apps");
+		
 	}
 
 	@Test
